@@ -1,0 +1,9 @@
+body{
+	background-color: #C1CAD6;
+}
+li{
+	display:  inline-block;
+	list-style: none;
+	float: left;
+	padding: 40px;
+}
